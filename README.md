@@ -1,0 +1,1 @@
+Infinity is developing an airline ticket reservation system that offers a wide range of flights with detailed schedules. Customers can select flights, choose seats from various classes, and receive instant pricing before printing their tickets. Additionally, they have the option to calculate prices, print tickets, or reserve multiple flights.
